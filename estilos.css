@@ -193,3 +193,21 @@ ul {
   .clientes{
     height: 250px;
   }
+  .foto_curriculo{
+    height: 100px;
+    width:auto;
+  }
+  .experiencias{
+    height: 1500px;
+  }
+  table{
+    size:40%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .estudo{
+    height: 430px;
+  }
+  .conhecimentos{
+    height: 550px;
+  }
