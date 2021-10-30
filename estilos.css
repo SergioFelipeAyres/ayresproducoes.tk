@@ -55,7 +55,7 @@ ul {
     background: #fff;
     border-radius: 2px;
     display: inline-block;
-    height: 250px;
+    height: 290px;
     margin: 3rem;
     position: relative;
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
@@ -67,6 +67,8 @@ ul {
   }
   .texto_card{
     color:black;
+    margin-left: 2%;
+    margin-right: 2%;
   }
   .rodape {
     height: 160px;
