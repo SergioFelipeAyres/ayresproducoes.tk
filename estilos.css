@@ -5,7 +5,7 @@ html{
     background-repeat: no-repeat;
     background-position: right top;
     background-attachment: fixed;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Sora', sans-serif;
 }
 hr{
     width: 50%;
@@ -28,6 +28,7 @@ ul {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    font-weight: 200;
   }
   
   li a:hover:not(.active) {
@@ -44,13 +45,6 @@ ul {
     width: 600px;
     max-width: 90%;
   }
-  .titulo_site{
-    text-align: center;
-  }
-  .subtitulo_site{
-    text-align: center;
-    color:black;
-  }
   .card {
     background: #fff;
     border-radius: 2px;
@@ -63,7 +57,7 @@ ul {
     text-align: center;
   }
   .minhas_fotos{
-    height:50%;
+    height: 50%;
   }
   .texto_card{
     color:black;
@@ -210,4 +204,7 @@ ul {
   }
   .conhecimentos{
     height: 550px;
+  }
+  h2{
+    font-weight: 700;
   }
