@@ -54,7 +54,7 @@ ul {
   .card {
     background: #fff;
     border-radius: 2px;
-    display: inline-block;
+    display: table;
     height: 290px;
     margin: 3rem;
     position: relative;
@@ -63,7 +63,7 @@ ul {
     text-align: center;
   }
   .minhas_fotos{
-    height: 840px;
+    height:50%;
   }
   .texto_card{
     color:black;
